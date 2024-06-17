@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Jenkins Test Build
+          Jenkins Build Successfully
         </p>
       </header>
     </div>
